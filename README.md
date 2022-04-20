@@ -11,3 +11,4 @@ The purpose of this assignment was to select a data file containing Amazon revie
 * The percent of Vine reviews with 5 star rating was 38.9% while the percent for non Vine reviews was 54.6%
 
 ## Summary
+In conclusion, we did not find a positivity bias with the Vine reviews because the non Vine reviews actually had a higher percentage of 5 star ratings(54.6% compared to 38.9%). However, one recommendation I have would be to further analyze based on product type. I would be interested to see if different product types had varying ratings. 
